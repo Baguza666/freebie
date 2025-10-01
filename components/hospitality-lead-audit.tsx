@@ -210,7 +210,7 @@ export default function HospitalityLeadAudit() {
                 <CardTitle className="text-4xl mb-3 font-bold text-balance">Guest Inquiry Conversion Audit</CardTitle>
                 <CardDescription className="text-cyan-50 text-lg leading-relaxed text-pretty max-w-3xl">
                   Performance audit for independent hotels, boutique resorts, and vacation rental managers in Dubai, Abu
-                  Dhabi, Riyadh, and Qatar. Track inquiry-to-booking conversion, channel efficiency, and response
+                  Dhabi, Riyadh, and Doha. Track inquiry-to-booking conversion, channel efficiency, and response
                   quality.
                 </CardDescription>
               </div>
